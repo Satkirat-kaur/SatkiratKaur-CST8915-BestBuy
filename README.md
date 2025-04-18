@@ -162,12 +162,12 @@ Provides AI-based product generation features.
 ## Table of Docker Images
 | **Service**         | **Docker Image Link**                     |
 |---------------------|-------------------------------------------|
-| store-front-a2         | `https://hub.docker.com/repository/docker/satkiratkaur/store-front/general` |
-| store-admin-a2         | `https://hub.docker.com/repository/docker/satkiratkaur/store-admin/general` |
-| order-service-a2       | `https://hub.docker.com/repository/docker/satkiratkaur/order-service/general` |
-| product-service-a2     | `https://hub.docker.com/repository/docker/satkiratkaur/product-service/general` |
-| makeline-service-a2    | `https://hub.docker.com/repository/docker/satkiratkaur/makeline-service/general` |
-| ai-service-a2          | `https://hub.docker.com/repository/docker/satkiratkaur/ai-service/general` |
+| store-front        | `https://hub.docker.com/repository/docker/satkiratkaur/store-front/general` |
+| store-admin         | `https://hub.docker.com/repository/docker/satkiratkaur/store-admin/general` |
+| order-service       | `https://hub.docker.com/repository/docker/satkiratkaur/order-service/general` |
+| product-service     | `https://hub.docker.com/repository/docker/satkiratkaur/product-service/general` |
+| makeline-service    | `https://hub.docker.com/repository/docker/satkiratkaur/makeline-service/general` |
+| ai-service       | `https://hub.docker.com/repository/docker/satkiratkaur/ai-service/general` |
 
 
 ## Any issues or limitations in the implementation
